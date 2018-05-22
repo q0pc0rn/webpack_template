@@ -29,7 +29,7 @@ let conf = {
         plugins: [
           new ExtractTextPlugin("styles.css"),
           new HtmlWebpackPlugin({
-            template: 'src/index.pug',
+            template: 'index.pug',
             filename: 'index.html',
           }),
         ]
