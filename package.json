@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "frontend-client",
   "version": "1.0.0",
-  "description": "",
+  "description": "landing page client",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-   // "url": "https://gitlab.com/Zubateam/Bitcoin-CMS/frontend-client.git"
+    "url": "https://gitlab.com/Zubateam/Bitcoin-CMS/frontend-client.git"
   },
   "author": "Aslan Zhubanishchev",
   "license": "ISC",
